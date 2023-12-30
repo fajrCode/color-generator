@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  padding-top: 5rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+input[type="color"] {
+  margin-bottom: 2rem;
+}
+
+.color-box {
+  width: 200px;
+  height: 200px;
+  margin: 2rem auto;
+}
+
+input[type="range"] {
+  width: 300px;
+  margin-bottom: 2rem;
+}
+
+.color-info {
+  margin-top: 1rem;
+}
